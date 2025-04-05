@@ -1,4 +1,5 @@
 let a = "AmitNadugeri";
+let p = "PurvaTalekar";
 console.log(a.length);
 console.log(a[0]);
 console.log(a[1]);
@@ -15,6 +16,7 @@ console.log(a[11]);
 console.log(a[12]);
 console.log(a.toUpperCase());
 console.log(a.toLowerCase());
+console.log(p.length);
 
 
 
